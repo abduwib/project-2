@@ -67,7 +67,7 @@ input{
   padding-left: 30px; */
   background: url(icon2.png) no-repeat scroll 7px 7px #a7a7a7;
   background-size: 20px 20px;
-  background-color: #!important;
+  /* background-color: #!important; */
   margin-right: 20px !important;
   transition-delay: 2s !important;
 }
@@ -164,10 +164,10 @@ border: 100px 100px;
   /* border: none; */
   width: 20px;
   height: 20px;
-  background-image: url(http://localhost:3000/static/media/icon3.f57a050f.png);
+  background-image: url(./icon3.png);
   background-size: cover;
   float: right;
-  background-color: #a7a7a7;
+  color: #a7a7a7;
   /* margin-right: -7px; */
 }
 
