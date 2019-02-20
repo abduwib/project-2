@@ -7,7 +7,7 @@
 
 ## Screenshot
 
-![alt text](screenshot23.png)
+![alt text](https://github.com/abduwib/project-2/blob/master/src/screnshot23.png)
 
 ## Specs to add
 
