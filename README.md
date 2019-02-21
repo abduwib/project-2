@@ -1,7 +1,7 @@
 # Overview:
 - 1 : Manage your days effortlessly and stay motivated.
 - 2 : Keep your obsessive compulsions at bay.
-- 3 : retain order in life. 
+- 3 : retain a little more order in life. 
 - Task Track helps you 
   
 
@@ -13,13 +13,14 @@
 
 - Customizable features.
 - Daily quotes.
-- 
+- Weather and time.
 
 ### Acknoledgements:
 
-- Moath Althawad.
+- Ghadeer.
 - Usman Bashir.
 - Michael Finneran. 
+- Mohammad AL-Ahmari.
 
 
 ### Refrences:

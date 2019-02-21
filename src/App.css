@@ -31,6 +31,7 @@ li {
   background: #a7d7c5;
   border-bottom: 1px !important;
   margin: none;
+  font-family: 'Open Sans', sans-serif;
 }
 
 
@@ -129,7 +130,7 @@ input:hover{
   background: #a7d7c5;
   margin-left: -50px;
   margin-bottom: 0 !important;
-  
+  font-family: 'Open Sans', sans-serif;
 }
 
 /* .container-fluid:hover{
@@ -137,9 +138,9 @@ input:hover{
 } */
 
 .image-section{
-  margin-top: -20px;
-  margin-left: -50px;
-  margin-right: -50px;
+  margin-top: -30px;
+  margin-left: 2px;
+  margin-right: -70px;
   width:200px;
   float:left;
   padding-bottom: 20px;
@@ -152,10 +153,10 @@ input:hover{
 }
 
 .todo-section{
-  margin-top:-15px;
+  margin:-25px;
   height: 600px;
-  margin-right: 0;
-  margin-left: -50px;
+  margin-right: -2px;
+  margin-left: -70px;
   background-color: #a7a7a7;
 }
 
